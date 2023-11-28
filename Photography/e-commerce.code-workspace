@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../e-commerce"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Photography"
+	}
+}
